@@ -1,4 +1,4 @@
-// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+// © 2018 Ruben Versavel. All Rights Reserved.
 
 #include "TP_ThirdPersonCharacter.h"
 #include "HeadMountedDisplayFunctionLibrary.h"
